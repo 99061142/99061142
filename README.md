@@ -1,7 +1,7 @@
 # Fullstack developer
 
 ### Knowledge of the languages:
-* Javascript
+* JavaScript
 * Python
 * PHP
 * HTML
@@ -9,4 +9,4 @@
 * SQL
 
 ### Knowledge of the frameworks:
-* Codeigniter
+* CodeIgniter
