@@ -1,12 +1,11 @@
-# Fullstack developer
+👋 Hello, My name is Xander, I'm a 18 years old Fullstack developer from The Netherlands.  
+👀 Im looking for a front or back-end position job in The Netherlands.  
+📫 You can reach me at xanderbwerk@gmail.com.  
 
-### Knowledge of the languages:
-* JavaScript
-* Python
-* PHP
-* HTML
-* CSS
-* SQL
+## Current knowledge:
 
-### Knowledge of the frameworks:
-* CodeIgniter
+### Languages:
+JavaScript - Python - PHP - HTML - CSS - SQL
+
+### Frameworks:
+CodeIgniter
