@@ -6,7 +6,7 @@
 ## Current knowledge:
 
 ### Languages:
-JavaScript - Python - PHP - HTML - CSS - SQL
+JavaScript - Python - PHP - HTML - CSS
 
 ### Frameworks:
 CodeIgniter
