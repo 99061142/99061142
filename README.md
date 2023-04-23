@@ -6,7 +6,10 @@
 ## Current knowledge:
 
 ### Languages:
-JavaScript - Python - PHP - HTML - CSS
+JavaScript - Python - HTML - CSS
+
+### Frameworks:
+React
 
 ### Interested:
-React - Lua
+Lua
