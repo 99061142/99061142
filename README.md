@@ -4,12 +4,4 @@
 :globe_with_meridians: Portfolio website: https://99061142.github.io/Portfolio
 
 ## Current knowledge:
-
-### Languages:
-JavaScript - Python - HTML - CSS
-
-### Library:
-React
-
-### Interested:
-Lua
+React - JavaScript - Python - HTML - CSS
