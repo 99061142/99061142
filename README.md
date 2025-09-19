@@ -100,7 +100,7 @@
         <td>
             <!-- Pie chart of the top languages I used within my public projects -->
             <img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=99061142&layout=pie&locale=en&theme=radical"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=99061142&layout=pie&locale=en&theme=radical&hide=html,php"
                 alt="GitHub top used languages"
             />
         </td>
