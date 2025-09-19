@@ -4,8 +4,6 @@
     👋 Hello, I'm Xander Briem
 </h1>
 
-<br>
-
 - 🌱 I’m currently studying **Software Development**, focusing on **Python** and **front-end web development**.
 
 - 🔭 In my free time, I’m developing an interactive **checkers** game using **React** and **TypeScript**.
@@ -13,8 +11,6 @@
 - 👨‍💻 Explore my work on my portfolio: [https://99061142.github.io/Portfolio/](https://99061142.github.io/Portfolio/)
 
 - 📫 Let’s connect: **xanderbwerk@gmail.com**
-
-<br>
 
 <!-- Links to websites where people can connect with me -->
 <h3>
@@ -34,8 +30,6 @@
         />
     </a>
 </div>
-
-<br>
 
 <!-- Show images of the programming languages which I am using within my projects -->
 <h3>
@@ -87,30 +81,34 @@
 
 <!-- Show the stats of my GitHub -->
 <table>
-	<tr
-		border="0"
+    <tr
+		style="border-top: 0;"
 	>
-		<td>
-			<!-- Contributions (total commits and current/longest commit streak -->
-			<img
-				src="https://github-readme-streak-stats.herokuapp.com/?user=99061142&locale=en&theme=radical"
-				alt="GitHub Contributions"
-			/>
-			<br>
-			<br>
-			<!-- Global GitHub stats (total commits past year, total earned stars, etc) -->
-			<img
-				width="100%"
-				src="https://github-readme-stats.vercel.app/api?username=99061142&show_icons=true&locale=en&theme=radical"
-				alt="GitHub stats"
-			/>
-		</td>
-		<td>
-			<!-- Pie chart of the top languages I used within my public projects -->
-			<img
-				src="https://github-readme-stats.vercel.app/api/top-langs/?username=99061142&layout=pie&locale=en&theme=radical"
-				alt="GitHub top used languages"
-			/>
-		</td>
-	</tr>
+        <td
+			style="border: 0;"
+		>
+            <!-- Contributions (total commits and current/longest commit streak -->
+            <img
+                src="https://github-readme-streak-stats.herokuapp.com/?user=99061142&locale=en&theme=radical"
+                alt="GitHub Contributions"
+            />
+            <br>
+            <br>
+            <!-- Global GitHub stats (total commits past year, total earned stars, etc) -->
+            <img
+                width="100%"
+                src="https://github-readme-stats.vercel.app/api?username=99061142&show_icons=true&locale=en&theme=radical"
+                alt="GitHub stats"
+            />
+        </td>
+        <td
+			style="border: 0;"
+		>
+            <!-- Pie chart of the top languages I used within my public projects -->
+            <img
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=99061142&layout=pie&locale=en&theme=radical"
+                alt="GitHub top used languages"
+            />
+        </td>
+    </tr>
 </table>
