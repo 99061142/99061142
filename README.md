@@ -87,7 +87,9 @@
 
 <!-- Show the stats of my GitHub -->
 <table>
-	<tr>
+	<tr
+		border="0"
+	>
 		<td>
 			<!-- Contributions (total commits and current/longest commit streak -->
 			<img
