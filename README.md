@@ -7,7 +7,7 @@
 - 🌱 I'm currently studying **Software Development**, focusing on **Python** and **front-end web development**.
 - 🔭 In my free time, I'm developing an interactive **checkers** game using **React** and **TypeScript**.
 - 👨‍💻 Explore my work on my portfolio: [https://99061142.github.io/Portfolio/](https://99061142.github.io/Portfolio/)
-- 📫 Let's connect: [xanderbwerk@gmail.com](mailto:xanderbwerk@gmail.com)
+- 📫 You can reach me at: [xanderbwerk@gmail.com](mailto:xanderbwerk@gmail.com)
 
 ## Connect with me:
 
@@ -23,6 +23,17 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
             alt="LinkedIn image" 
             height="30" 
+            width="40"
+        />
+    </a>
+    <!-- Gmail -->
+    <a
+        href="mailto:xanderbwerk@gmail.com"
+    >
+        <img
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+            alt="Gmail image"
+            height="30"
             width="40"
         />
     </a>
