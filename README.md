@@ -81,12 +81,8 @@
 
 <!-- Show the stats of my GitHub -->
 <table>
-    <tr
-		style="border-top: 0;"
-	>
-        <td
-			style="border: 0;"
-		>
+    <tr>
+        <td>
             <!-- Contributions (total commits and current/longest commit streak -->
             <img
                 src="https://github-readme-streak-stats.herokuapp.com/?user=99061142&locale=en&theme=radical"
@@ -101,9 +97,7 @@
                 alt="GitHub stats"
             />
         </td>
-        <td
-			style="border: 0;"
-		>
+        <td>
             <!-- Pie chart of the top languages I used within my public projects -->
             <img
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=99061142&layout=pie&locale=en&theme=radical"
