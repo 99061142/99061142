@@ -10,7 +10,7 @@
 
 - 👨‍💻 Explore my work on my portfolio: [https://99061142.github.io/Portfolio/](https://99061142.github.io/Portfolio/)
 
-- 📫 Let’s connect: **xanderbwerk@gmail.com**
+- 📫 Let’s connect: [xanderbwerk@gmail.com](mailto:xanderbwerk@gmail.com)
 
 <!-- Links to websites where people can connect with me -->
 <h3>
