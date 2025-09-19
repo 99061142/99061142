@@ -26,17 +26,6 @@
             width="40"
         />
     </a>
-    <!-- Gmail -->
-    <a
-        href="mailto:xanderbwerk@gmail.com"
-    >
-        <img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-            alt="Gmail image"
-            height="30"
-            width="40"
-        />
-    </a>
 </div>
 
 ## Languages:
