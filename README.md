@@ -95,7 +95,7 @@
         <td>
             <!-- GitHub top languages -->
             <img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=99061142&layout=pie&locale=en&theme=radical&hide=html,php"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=99061142&layout=pie&locale=en&theme=radical&hide=html,php,css,scss"
                 alt="GitHub top used languages"
             />
         </td>
