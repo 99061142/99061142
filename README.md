@@ -4,7 +4,7 @@
 
 </div>
 
-- 🌱 I'm currently studying **Software Development**, focusing on **Python** and **front-end web development**.
+- 🌱 I'm currently studying **Software Dvelopment**, focusing on **front-end** and **back-end** development.
 - 🔭 In my free time, I'm developing an interactive **checkers** game using **React** and **TypeScript**.
 - 👨‍💻 Explore my work on my portfolio: [https://99061142.github.io/Portfolio/](https://99061142.github.io/Portfolio/)
 - 📫 You can reach me at: [xanderbwerk@gmail.com](mailto:xanderbwerk@gmail.com)
